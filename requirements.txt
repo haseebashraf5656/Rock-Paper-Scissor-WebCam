@@ -1,0 +1,10 @@
+# Core
+tensorflow>=2.16,<3
+gradio>=4,<7
+numpy
+pillow
+
+# Notebook analysis and evaluation
+matplotlib
+scikit-learn
+jupyter

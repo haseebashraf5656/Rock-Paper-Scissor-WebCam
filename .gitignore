@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Trained model artifacts
+*.keras
+*.h5
+
+# Local dataset copies (use the Kaggle dataset link instead)
+rock_siccers_paper*/
+rock_siccors_paper*/
+data/
+dataset/
+
+# Environment and OS files
+.env
+.DS_Store
+Thumbs.db
